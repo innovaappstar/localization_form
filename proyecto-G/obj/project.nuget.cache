@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQOqRcZo0WKWUcdzwAHRpQj5vWBf9nWXcM16JnKFZIf8Mce9det28E4gABzawUPNVQs+TM+EHCbtApAEv5Tc4g==",
+  "success": true,
+  "projectFilePath": "C:\\proyecto-G 2\\proyecto-G\\proyecto-G.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abexa\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,74 @@
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.exe
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.deps.json
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.runtimeconfig.json
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.dll
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.pdb
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.AssemblyReference.cache
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto_G.Form1.resources
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.GenerateResource.cache
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.AssemblyInfoInputs.cache
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.AssemblyInfo.cs
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.CoreCompileInputs.cache
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.dll
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\refint\proyecto-G.dll
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.pdb
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.genruntimeconfig.cache
+C:\Users\spsa\source\repos\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\ref\proyecto-G.dll
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.exe
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.deps.json
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.runtimeconfig.json
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.dll
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.pdb
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.AssemblyReference.cache
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto_G.Form1.resources
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.GenerateResource.cache
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.AssemblyInfoInputs.cache
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.AssemblyInfo.cs
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.CoreCompileInputs.cache
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.dll
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\refint\proyecto-G.dll
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.pdb
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.genruntimeconfig.cache
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\ref\proyecto-G.dll
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\bin\Debug\net6.0-windows\MQTTnet.dll
+C:\Users\Balta\OneDrive\Documentos\Visual Studio 2022\Repositorios\proyecto-G\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.CopyComplete
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.exe
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.deps.json
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.runtimeconfig.json
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.dll
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.pdb
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\MQTTnet.dll
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto_G.Form1.resources
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.AssemblyInfo.cs
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.CopyComplete
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.dll
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\refint\proyecto-G.dll
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.pdb
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.genruntimeconfig.cache
+\\Mac\Home\Downloads\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\ref\proyecto-G.dll
+C:\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.exe
+C:\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.deps.json
+C:\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.runtimeconfig.json
+C:\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.dll
+C:\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\proyecto-G.pdb
+C:\proyecto-G 2\proyecto-G\bin\Debug\net6.0-windows\MQTTnet.dll
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.AssemblyReference.cache
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto_G.Form1.resources
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.GenerateResource.cache
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.AssemblyInfoInputs.cache
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.AssemblyInfo.cs
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.CoreCompileInputs.cache
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.csproj.CopyComplete
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.dll
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\refint\proyecto-G.dll
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.pdb
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\proyecto-G.genruntimeconfig.cache
+C:\proyecto-G 2\proyecto-G\obj\Debug\net6.0-windows\ref\proyecto-G.dll
